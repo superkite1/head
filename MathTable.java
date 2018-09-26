@@ -1,4 +1,4 @@
-package math02;
+﻿
 
 public class MathTable {
 	/**
