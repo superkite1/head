@@ -1,3 +1,6 @@
 一起做一个测试，分支测试！
-首先master 分支 commit。
-master
+首先featurel 分支 commit。
+featurel--featurel分支
+master  --master分支
+
+分支冲突测试中，要先直接切换至新的分支进行修改，修改后回到主分支修改
